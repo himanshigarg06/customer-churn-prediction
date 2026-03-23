@@ -1,4 +1,4 @@
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sPOw5qI0TQ4VBz-b8XNa5CM0SEnYNKcG?usp=sharing)
 # 📊 Customer Churn Prediction
 
 This project focuses on predicting whether a customer will churn (leave a service) using machine learning techniques. It is based on the Telco Customer Churn dataset and demonstrates a complete ML workflow from preprocessing to model evaluation.
