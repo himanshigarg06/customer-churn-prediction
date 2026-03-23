@@ -109,8 +109,7 @@ Customer churn is a critical problem for businesses. In this project, we analyze
 
 ## 👩‍💻 Author
 
-**Himanshi Garg**
-B.Tech CSE (AI/ML Student)
+**Himanshi**
 
 ---
 
